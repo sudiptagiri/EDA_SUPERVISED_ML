@@ -3,7 +3,7 @@ Performing EDA, primary analysis of several categorical features reveals, Perfor
 
 Supervised Learning
 
-Perform the following tasks:
+Performed the following tasks:
 
 Q1. Perform EDA on the given data. What does the primary analysis of several categorical features reveal? 
 
